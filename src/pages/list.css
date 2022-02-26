@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300&family=Lato:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap');
+.card-bg {
+    
+    width: 350px;
+    align-items: center;
+    left: 80px;
+    margin-right: 15px;
+    top: 181px;
+    bottom: 1674px;
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+}
+.card-image {
+    width: 210px;
+    height: 210px;
+    left: 170px;
+    right: 1043px;
+    margin: 10px 5px 0px 3px;
+    border-radius: 4px;
+}
+
+.title {
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 143%;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.018em;
+
+    color: #19191D;
+}
+.text-author {
+    
+    left: 178px;
+    right: 1159px;
+    bottom: 1787px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 143%;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.018em;
+
+    color: #787885;
+}
+.textdesc {
+    
+    right: 1159px;
+    bottom: 1787px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 143%;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.018em;
+
+
+    color: #787885;
+}
+.textdata{
+    
+    top: calc(50% - 21px/2 - 578px);
+
+    margin-left: 50px;
+    margin-top: 4px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 143%;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.018em;
+
+    color: #2264D1;
+}
+.b-genero {
+    
+    width: 83px;
+    top: 541px;
+    bottom: 1698px;
+
+    background: #FFFFFF;
+    border: 1px solid #9DC2FF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #2264D1;
+    font-size: 12px;
+}
+
+
+@media (min-width: 550px) {
+    .card-bg {
+    
+        width: 250px;
+        left: 10px;
+        margin-right: 15px;
+        
+    }
+}
+
+@media (min-width: 700px) {
+    .card-bg {
+    
+        width: 250px;
+        left: 0px;
+        margin-right: 20px;
+    }
+}
+@media (min-width: 768px) {
+    .card-bg {
+    
+        width: 250px;
+        left: 30px;
+        margin-right: 100px;
+    }
+}
+@media (min-width: 900px) {
+    .card-bg {
+    
+        width: 280px;
+        left: 20px;
+        margin-right: 60px;
+    }
+}
+@media (min-width: 990px) {
+    .card-bg {
+    
+        width: 250px;
+        left: 60px;
+        margin-right: 20px;
+        
+    }
+}

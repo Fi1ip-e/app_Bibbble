@@ -1,0 +1,661 @@
+
+.logo {
+    width: 130.79px;
+    height: 32px;
+    left: 20px;
+    top: 34px;
+}
+.menu-item {
+    width: 50%;
+    background-color: #816AFE;
+    
+    margin-top: 10px;
+    margin-left: -10px;
+    border-radius: 10px;
+}
+.groups-nav {
+    
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.home {
+    
+    left: 527.5px;
+    margin-top: 15px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.about {
+
+    width: 38px;
+    height: 16px;
+    left: 625.5px;
+    margin-top: 15px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.feature {
+
+    width: 55px;
+    height: 16px;
+    left: 723.5px;
+    margin-top: 15px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.princing {
+
+    width: 44px;
+    height: 16px;
+    left: 838.5px;
+    margin-top: 15px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.gallery {
+   
+    width: 43px;
+    height: 16px;
+    left: 942.5px;
+    margin-top: 15px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.team {
+    
+    width: 35px;
+    height: 16px;
+    left: 1045.5px;
+    margin-top: 15px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.search {
+    
+    width: 12px;
+    height: 12px;
+    left: 1140.5px;
+    margin-top: 15px;
+
+   
+}
+/* .img-search {
+    width: 50px;
+} */
+.divider {
+    
+    height: 1px;
+    width: 100%;
+    height: 250px;
+    margin-bottom: -90px;
+    margin-top: 50px;
+  
+    background: #0a0a0a;
+  }
+  
+  @media (min-width: 768px) {
+    .logo {
+        position: absolute;
+        width: 130.79px;
+        height: 32px;
+        left: 30px;
+        top: 10px;
+    }
+    .groups-nav {
+        position: absolute;
+        width: 553px;
+        height: 16px;
+        left: -110px;
+        top: 40px;
+    }
+    .home {
+        position: absolute;
+        
+        left: 227px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .about {
+        position: absolute;
+        left: 320px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .feature {
+        position: absolute;
+        left: 420px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .princing {
+        position: absolute;
+        left: 520.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .gallery {
+        position: absolute;
+        left: 620.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .team {
+        position: absolute;
+        left: 720.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    
+    .search {
+        position: absolute;
+        left: 820px;
+        top: 18px;
+    }
+
+    .divider {
+        
+        height: 1px;
+        margin-bottom: -80px;
+        width: 100%;
+        height: 250px;
+        margin-top: 120px;
+      
+        background: #0a0a0a;
+      }
+    
+}
+
+  @media (min-width: 900px) {
+    .logo {
+        position: absolute;
+        width: 130.79px;
+        height: 32px;
+        left: 30px;
+        top: 34px;
+    }
+    .groups-nav {
+        position: absolute;
+        width: 553px;
+        height: 16px;
+        left: 0;
+        top: 20px;
+    }
+    .home {
+        position: absolute;
+        
+        left: 227px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .about {
+        position: absolute;
+        left: 330px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .feature {
+        position: absolute;
+        left: 430px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .princing {
+        position: absolute;
+        left: 540.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .gallery {
+        position: absolute;
+        left: 650.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .team {
+        position: absolute;
+        left: 750.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    
+    .search {
+        position: absolute;
+        left: 850px;
+        top: 18px;
+    }
+    
+}
+
+@media (min-width: 1080px) {
+    .logo {
+        position: absolute;
+        width: 130.79px;
+        height: 32px;
+        left: 75.5px;
+        top: 34px;
+    }
+    .groups-nav {
+        position: absolute;
+        width: 553px;
+        height: 16px;
+        left: 100.5px;
+        top: 20px;
+    }
+    .home {
+        position: absolute;
+        
+        left: 227px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .about {
+        position: absolute;
+        left: 330px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .feature {
+        position: absolute;
+        left: 430px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .princing {
+        position: absolute;
+        left: 540.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .gallery {
+        position: absolute;
+        left: 650.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .team {
+        position: absolute;
+        left: 750.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    
+    .search {
+        position: absolute;
+        left: 850px;
+        top: 18px;
+    }
+    
+}
+@media (min-width: 1200px) {
+    .logo {
+        position: absolute;
+        width: 130.79px;
+        height: 32px;
+        left: 120px;
+        top: 48px;
+    }
+    .groups-nav {
+        position: absolute;
+        width: 553px;
+        height: 16px;
+        left: 240.5px;
+        top: 0px;
+    }
+    .home {
+        position: absolute;
+        
+        left: 245.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .about {
+        position: absolute;
+        left: 330px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .feature {
+        position: absolute;
+        left: 430px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .princing {
+        position: absolute;
+        left: 540.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .gallery {
+        position: absolute;
+        left: 650.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .team {
+        position: absolute;
+        left: 750.5px;
+        top: 22.7px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    
+    .search {
+        position: absolute;
+        left: 850px;
+        top: 18px;
+    }
+    
+}
+
+@media (min-width: 1440px) {
+    .logo {
+        position: absolute;
+        width: 130.79px;
+        height: 32px;
+        left: 154px;
+        top: 34px;
+    }
+    .home {
+        position: absolute;
+        
+        left: 527.5px;
+        top: 42px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .about {
+        position: absolute;
+        width: 38px;
+        height: 16px;
+        left: 625.5px;
+        top: 42px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .feature {
+        position: absolute;
+        width: 55px;
+        height: 16px;
+        left: 723.5px;
+        top: 42px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .princing {
+        position: absolute;
+        width: 44px;
+        height: 16px;
+        left: 838.5px;
+        top: 42px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .gallery {
+        position: absolute;
+        width: 43px;
+        height: 16px;
+        left: 942.5px;
+        top: 42px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .team {
+        position: absolute;
+        width: 35px;
+        height: 16px;
+        left: 1045.5px;
+        top: 42px;
+    
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+    
+        color: #000000;
+    }
+    .search {
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        left: 1140.5px;
+        top: 44px;
+
+       
+    }
+}
